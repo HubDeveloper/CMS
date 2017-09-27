@@ -24,7 +24,7 @@ Log4J | 日志组件  | [http://logging.apache.org/log4j/1.2/](http://logging.ap
 Swagger2 | 接口测试框架  | [http://swagger.io/](http://swagger.io/)
 Protobuf & json | 数据序列化  | [https://github.com/google/protobuf](https://github.com/google/protobuf)
 Jenkins | 持续集成工具  | [https://jenkins.io/index.html](https://jenkins.io/index.html)
-Maven | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/)
+Maven & Gradle | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/)
 
 #### 前端技术:
 技术 | 名称 | 官网
@@ -38,13 +38,9 @@ Waves | 点击效果插件  | [https://github.com/fians/Waves](https://github.co
 zTree | 树插件  | [http://www.treejs.cn/v3/](http://www.treejs.cn/v3/)
 Select2 | 选择框插件  | [https://github.com/select2/select2](https://github.com/select2/select2)
 jquery-confirm | 弹出窗口插件  | [https://github.com/craftpip/jquery-confirm](https://github.com/craftpip/jquery-confirm)
-jQuery EasyUI | 基于jQuery的UI插件集合体  | [http://www.jeasyui.com](http://www.jeasyui.com)
 React | 界面构建框架  | [https://github.com/facebook/react](https://github.com/facebook/react)
 Editor.md | Markdown编辑器  | [https://github.com/pandao/editor.md](https://github.com/pandao/editor.md)
-zhengAdmin | 后台管理系统模板  | [https://github.com/shuzheng/zhengAdmin](https://github.com/shuzheng/zhengAdmin)
 autoMail | 邮箱地址自动补全插件  | [https://github.com/shuzheng/autoMail](https://github.com/shuzheng/autoMail)
-zheng.jprogress.js | 加载进度条插件  | [https://github.com/shuzheng/zheng.jprogress.js](https://github.com/shuzheng/zheng.jprogress.js)
-zheng.jtotop.js | 返回顶部插件  | [https://github.com/shuzheng/zheng.jtotop.js](https://github.com/shuzheng/zheng.jtotop.js)  
 
 #### 开发工具:
 - MySql: 数据库
@@ -60,7 +56,4 @@ zheng.jtotop.js | 返回顶部插件  | [https://github.com/shuzheng/zheng.jtoto
 - Jdk7+
 - Mysql5.5+
 - Redis
-- Zookeeper
 - ActiveMQ
-- Dubbo-admin
-- Dubbo-monitor
