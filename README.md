@@ -24,7 +24,7 @@ Log4J | 日志组件  | [http://logging.apache.org/log4j/1.2/](http://logging.ap
 Swagger2 | 接口测试框架  | [http://swagger.io/](http://swagger.io/)
 Protobuf & json | 数据序列化  | [https://github.com/google/protobuf](https://github.com/google/protobuf)
 Jenkins | 持续集成工具  | [https://jenkins.io/index.html](https://jenkins.io/index.html)
-Maven & Gradle | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/)
+Maven & Gradle | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/) [https://gradle.org/](https://gradle.org/) 
 
 #### 前端技术:
 技术 | 名称 | 官网
