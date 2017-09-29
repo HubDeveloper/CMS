@@ -249,26 +249,36 @@
     <!-- /.sidebar -->
   </aside>
 
-  <!-- Content Wrapper. Contains page content -->
-  <div class="content-wrapper">
-    <!-- Content Header (Page header) -->
+<!--  <div class="content-wrapper">
+    &lt;!&ndash; Content Header (Page header) &ndash;&gt;
     <section class="content-header">
       <h1>
         后台首页
       </h1>
     </section>
-    <!-- Main content -->
+    &lt;!&ndash; Main content &ndash;&gt;
+    &lt;!&ndash; /.content &ndash;&gt;
+  </div>-->
+
+  <!-- =============================================== -->
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <ol class="breadcrumb" id="nav_title" style="position:static;float:none;">
+        <li class="active"><i class="fa fa-home" style="font-size:20px;position:relative;top:2px;left:-3px;"></i> &nbsp; 首页</li>
+        <li class="active">后台首页</li>
+      </ol>
+    </section>
+
+    <!-- 主要内容 -->
+    <section class="content" ">
+      <iframe scrolling="yes" frameborder="0" style="width:100%;min-height:200px;overflow:visible;background:#fff;"
+              src="../login.html"></iframe>
+    </section>
     <!-- /.content -->
   </div>
-  <!-- /.content-wrapper -->
-
-  <!-- Main Footer -->
-  <footer class="main-footer">
-    <!-- Default to the left -->
-    <strong>&copy;2016-2017 <a href="home.html">后台管理界面</a>.</strong>
-  </footer>
-
-  <div class="control-sidebar-bg"></div>
+<div class="control-sidebar-bg"></div>
 </div>
 <script src="../dist/css/jquery.js"></script>
 <script src="../dist/js/bootstrap.js"></script>
